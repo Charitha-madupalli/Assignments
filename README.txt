@@ -1,6 +1,5 @@
 Assignemnts 
 CSS
 HTML
+JS
 README.txt file 
-
-2 Branches
